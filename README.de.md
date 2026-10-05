@@ -3,32 +3,32 @@
 </p>
 
 <p align="center">
-  <img src="./assets/readme/en/hero.gif" width="100%" alt="Beautify GitHub README: Besucher verstehen ein Repository auf den ersten Blick.">
+  <img src="./assets/readme/retalab-v2/hero.svg" width="100%" alt="RetaLab-README-Design: Projektarbeit durch echte Belege verständlich machen.">
 </p>
 
 <p align="center">
-  <img src="./assets/readme/en/theme-wall.svg" width="100%" alt="Sechs projektspezifische README-Ansätze für Entwicklertools, KI-Produkte, Designressourcen, Forschung, Kreativprojekte und Open-Source-Bibliotheken.">
+  <img src="./assets/readme/retalab-v2/theme-wall.svg" width="100%" alt="Sechs visuelle Ansätze für Entwicklertools, KI-Produkte, Designressourcen, Forschung, Kreativprojekte und Open-Source-Software.">
 </p>
 
 Repository-READMEs strukturieren und gestalten, damit Projektwert, echte Beispiele, Installation und Nutzungsgrenzen leichter verständlich sind.
 
 Die folgenden vier unabhängigen Hero-Ansätze verwenden keinen einheitlichen Stil. Typografie, Farben, Komposition und Belege leiten sich jeweils aus dem Projekt selbst ab.
 
-<p align="center"><img src="./assets/readme/en/case-kubernetes.svg" width="100%" alt="Kubernetes-README-Hero mit schwarzem Systemlayout und Cluster-Beziehungsdiagramm."></p>
-<p align="center"><img src="./assets/readme/en/case-postgresql.svg" width="100%" alt="PostgreSQL-README-Hero mit tiefblauem Editorial-Layout und relationalen Tabellen."></p>
-<p align="center"><img src="./assets/readme/en/case-block-world.png" width="100%" alt="Hybrides Block-World-README-Hero mit pixelartiger SVG-Komposition und KI-generierter Baufigur."></p>
+<p align="center"><img src="./assets/readme/retalab-v2/case-kubernetes.svg" width="100%" alt="Konzeptionelles Kubernetes-Diagramm: Eine Anfrage läuft über Ingress und Service zu zwei Pods."></p>
+<p align="center"><img src="./assets/readme/retalab-v2/case-postgresql.svg" width="100%" alt="Konzeptionelles relationales Schema mit den Tabellen accounts, projects und events."></p>
+<p align="center"><img src="./assets/readme/retalab-v2/case-block-world.svg" width="100%" alt="Block-World-Konzept im Pixelart-Stil: Eine Baufigur setzt einen Blockplan als Szene um."></p>
 
 **Block World** zeigt einen spielerischen Hybridansatz: SVG gestaltet Pixeltypografie, Raster, Beschriftungen und Szenenaufbau. ImageGen und Chroma-Key-Freistellung liefern die Figur, die deterministisch schwer zu zeichnen wäre.
 
-<p align="center"><img src="./assets/readme/en/case-wolfcha.png" width="100%" alt="Hybrides Wolfcha-README-Hero mit präziser SVG-Typografie, Tischgrafik und KI-generiertem Wolf-Spielleiter."></p>
+<p align="center"><img src="./assets/readme/retalab-v2/case-wolfcha.svg" width="100%" alt="Konzeptionelles Spieltisch-Layout bei Nacht mit Sitzplätzen, Spielleitung und Rundenablauf."></p>
 
-<p align="center"><img src="./assets/readme/en/section-why.svg" width="100%" alt="01 Das Projekt verständlich machen, bevor Besucher weiterlesen."></p>
+<p align="center"><img src="./assets/readme/retalab-v2/section-why.svg" width="100%" alt="Abschnitt 1: Zeigen, was das Projekt ermöglicht."></p>
 
 Die meisten Repositories enthalten bereits genug Informationen. Oft stimmt nur die Reihenfolge nicht: Besucher sehen interne Begriffe, Installationsbefehle und Verzeichnisbäume, bevor sie den Zweck des Projekts verstehen.
 
 `beautify-github-readme` liest zuerst das tatsächliche Repository, ermittelt den klarsten Nutzen und Beleg und entscheidet erst danach über die Gestaltung.
 
-<p align="center"><img src="./assets/readme/en/before-after.svg" width="100%" alt="Ein README wechselt von dichtem Inhalt ohne Einstieg zu einer Reihenfolge aus Nutzen, Beleg, Methode und erstem Einsatz."></p>
+<p align="center"><img src="./assets/readme/retalab-v2/before-after.svg" width="100%" alt="Vorher und nachher: ein überladenes README wird zu einer klaren Folge aus Nutzen, Belegen, Methode und Handlung."></p>
 
 Im Modus „Gesamtes README“ arbeitet die Skill auf drei Ebenen:
 
@@ -38,7 +38,7 @@ Im Modus „Gesamtes README“ arbeitet die Skill auf drei Ebenen:
 
 Unterschiedliche Projekte brauchen unterschiedliche Ansätze. Eine CLI kann Befehlsrhythmus und Cursor nutzen, ein Icon-System Keylines und Ausschnitte, ein Forschungsrepository Koordinaten, Diagramme und Beleglabels.
 
-<p align="center"><img src="./assets/readme/en/section-method.svg" width="100%" alt="02 Visuelle Identität in SVG, lesbare Inhalte in Markdown."></p>
+<p align="center"><img src="./assets/readme/retalab-v2/section-method.svg" width="100%" alt="Abschnitt 2: Visualisierungen zeigen lassen, Markdown erklären lassen."></p>
 
 GitHub-READMEs bieten weniger Layoutfreiheit als Websites. Diese Skill trennt visuelle Ebene und Inhalt:
 
@@ -58,11 +58,11 @@ Wiederverwendbare Produktionshinweise:
 - [SVG mit generiertem Rastermaterial kombinieren](./skills/beautify-github-readme/references/hybrid-svg-production.md)
 - [GitHub-kompatible README-Bewegung erstellen](./skills/beautify-github-readme/references/motion-production.md)
 
-<p align="center"><img src="./assets/readme/en/workflow.svg" width="100%" alt="Projekt verstehen, Richtung festlegen, Inhalte strukturieren, Visualisierungen erstellen und Vorschau prüfen."></p>
+<p align="center"><img src="./assets/readme/retalab-v2/workflow.svg" width="100%" alt="Fünf Schritte: Repository prüfen, Ziel definieren, Inhalte strukturieren, gestalten und kontrollieren."></p>
 
 Der Ablauf hält drei Zusagen ein: echtes Projektmaterial verwenden, keine Funktionen erfinden und nichts ohne ausdrückliche Freigabe veröffentlichen.
 
-<p align="center"><img src="./assets/readme/en/section-use.svg" width="100%" alt="03 Das Repository an deinen Agenten übergeben."></p>
+<p align="center"><img src="./assets/readme/retalab-v2/section-use.svg" width="100%" alt="Abschnitt 3: Gib deinem Agenten das echte Repository."></p>
 
 **Option 1 · Über die Kommandozeile installieren**
 

@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="./assets/readme/en/hero.gif" width="100%" alt="Beautify GitHub README: help visitors understand a repository at first glance.">
+  <img src="./assets/readme/retalab-v2/hero.svg" width="100%" alt="RetaLab README design: make project work easy to understand through real evidence.">
 </p>
 
 <p align="center">
-  <img src="./assets/readme/en/theme-wall.svg" width="100%" alt="Six project-native README directions for developer tools, AI products, design resources, research, creator projects, and open-source libraries.">
+  <img src="./assets/readme/retalab-v2/theme-wall.svg" width="100%" alt="Six distinct visual approaches for developer tools, AI products, design resources, research, creator projects, and open-source software.">
 </p>
 
 Organize and design repository READMEs so that project value, real examples, installation paths, and usage boundaries are easier to understand.
@@ -15,25 +15,25 @@ Organize and design repository READMEs so that project value, real examples, ins
 Below are four independent hero directions. They do not share one house style; each derives its typography, color, composition, and proof from the project itself.
 
 <p align="center">
-  <img src="./assets/readme/en/case-kubernetes.svg" width="100%" alt="Kubernetes README hero example with a black system layout and cluster relationship diagram.">
+  <img src="./assets/readme/retalab-v2/case-kubernetes.svg" width="100%" alt="Conceptual Kubernetes diagram tracing a request through ingress and service to two pods.">
 </p>
 
 <p align="center">
-  <img src="./assets/readme/en/case-postgresql.svg" width="100%" alt="PostgreSQL README hero example with a deep blue editorial layout and relational tables.">
+  <img src="./assets/readme/retalab-v2/case-postgresql.svg" width="100%" alt="Conceptual relational schema connecting accounts, projects, and events tables.">
 </p>
 
 <p align="center">
-  <img src="./assets/readme/en/case-block-world.png" width="100%" alt="Block World hybrid README hero combining pixel-style SVG composition with an AI-generated builder character cutout.">
+  <img src="./assets/readme/retalab-v2/case-block-world.svg" width="100%" alt="Pixel-art-inspired Block World concept showing a builder turning a block plan into a scene.">
 </p>
 
 **Block World** shows a playful hybrid direction: SVG builds the pixel typography, grid, labels, and scene structure, while ImageGen and chroma-key removal supply the character that would be cumbersome to draw deterministically.
 
 <p align="center">
-  <img src="./assets/readme/en/case-wolfcha.png" width="100%" alt="Wolfcha hybrid README hero combining precise SVG typography and table graphics with an AI-generated wolf game master.">
+  <img src="./assets/readme/retalab-v2/case-wolfcha.svg" width="100%" alt="Conceptual moonlit tabletop game layout showing player seats, a game master, and round flow.">
 </p>
 
 <p align="center">
-  <img src="./assets/readme/en/section-why.svg" width="100%" alt="01 Make the project clear before asking people to keep reading.">
+  <img src="./assets/readme/retalab-v2/section-why.svg" width="100%" alt="Section 1: lead with what the project makes possible.">
 </p>
 
 Most repositories already contain enough information. The problem is usually the order: visitors see internal terminology, installation commands, and directory trees before they understand what the project is for.
@@ -41,7 +41,7 @@ Most repositories already contain enough information. The problem is usually the
 `beautify-github-readme` reads the real repository first, identifies the clearest value and proof, and only then decides how the page should look.
 
 <p align="center">
-  <img src="./assets/readme/en/before-after.svg" width="100%" alt="A README changing from dense information with no clear entry point to a value, proof, method, and first-use sequence.">
+  <img src="./assets/readme/retalab-v2/before-after.svg" width="100%" alt="Before and after: replace a dense README with a clear sequence of value, evidence, method, and action.">
 </p>
 
 In whole-README mode, it works across three layers:
@@ -53,7 +53,7 @@ In whole-README mode, it works across three layers:
 Different projects should not receive the same template. A CLI can use command rhythm and cursors; an icon system can use keylines and cutouts; a research repository can use coordinates, charts, and evidence labels.
 
 <p align="center">
-  <img src="./assets/readme/en/section-method.svg" width="100%" alt="02 Put visual identity in SVG and readable content in Markdown.">
+  <img src="./assets/readme/retalab-v2/section-method.svg" width="100%" alt="Section 2: let visuals show and Markdown explain.">
 </p>
 
 GitHub READMEs do not have the layout freedom of a website. This Skill separates the visual and content layers:
@@ -75,13 +75,13 @@ The reusable production guidance lives here:
 - [Producing GitHub-safe README motion](./skills/beautify-github-readme/references/motion-production.md)
 
 <p align="center">
-  <img src="./assets/readme/en/workflow.svg" width="100%" alt="Understand the project, set the direction, structure the content, build the visuals, and review the preview.">
+  <img src="./assets/readme/retalab-v2/workflow.svg" width="100%" alt="Five-step workflow: inspect, frame, structure, design, and verify the README.">
 </p>
 
 The process keeps three promises: use real project material, never invent capabilities, and never publish without explicit approval.
 
 <p align="center">
-  <img src="./assets/readme/en/section-use.svg" width="100%" alt="03 Send the repository to your Agent.">
+  <img src="./assets/readme/retalab-v2/section-use.svg" width="100%" alt="Section 3: give your Agent the real repository.">
 </p>
 
 **Option 1 · Install from the command line**

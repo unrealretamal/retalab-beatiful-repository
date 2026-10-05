@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="./assets/readme/en/hero.gif" width="100%" alt="Beautify GitHub README: ayuda a los visitantes a entender un repositorio a primera vista.">
+  <img src="./assets/readme/retalab-v2/hero.svg" width="100%" alt="Diseño de README de RetaLab: explica el proyecto con claridad y pruebas reales.">
 </p>
 
 <p align="center">
-  <img src="./assets/readme/en/theme-wall.svg" width="100%" alt="Seis direcciones de README nativas del proyecto para herramientas de desarrollo, productos de IA, recursos de diseño, investigación, proyectos de creadores y bibliotecas de código abierto.">
+  <img src="./assets/readme/retalab-v2/theme-wall.svg" width="100%" alt="Seis enfoques visuales para herramientas de desarrollo, productos de IA, recursos de diseño, investigación, proyectos creativos y software de código abierto.">
 </p>
 
 Organiza y diseña READMEs de repositorios para que el valor del proyecto, los ejemplos reales, las rutas de instalación y los límites de uso sean más fáciles de entender.
@@ -15,25 +15,25 @@ Organiza y diseña READMEs de repositorios para que el valor del proyecto, los e
 A continuación se muestran cuatro direcciones de héroe independientes. No comparten un mismo estilo; cada una deriva su tipografía, color, composición y prueba del propio proyecto.
 
 <p align="center">
-  <img src="./assets/readme/en/case-kubernetes.svg" width="100%" alt="Ejemplo de héroe README de Kubernetes con un diseño de sistema negro y diagrama de relaciones de clúster.">
+  <img src="./assets/readme/retalab-v2/case-kubernetes.svg" width="100%" alt="Diagrama conceptual de Kubernetes: una solicitud pasa por ingress y service hasta dos pods.">
 </p>
 
 <p align="center">
-  <img src="./assets/readme/en/case-postgresql.svg" width="100%" alt="Ejemplo de héroe README de PostgreSQL con un diseño editorial azul profundo y tablas relacionales.">
+  <img src="./assets/readme/retalab-v2/case-postgresql.svg" width="100%" alt="Esquema relacional conceptual que conecta las tablas accounts, projects y events.">
 </p>
 
 <p align="center">
-  <img src="./assets/readme/en/case-block-world.png" width="100%" alt="Héroe README híbrido de Block World que combina composición SVG estilo píxel con un personaje constructor generado por IA.">
+  <img src="./assets/readme/retalab-v2/case-block-world.svg" width="100%" alt="Concepto de Block World en estilo pixel art: una persona constructora convierte un plano de bloques en una escena.">
 </p>
 
 **Block World** muestra una dirección híbrida y lúdica: SVG construye la tipografía pixelada, la cuadrícula, las etiquetas y la estructura de la escena, mientras que ImageGen y la eliminación de chroma-key suministran el personaje que sería engorroso dibujar de forma determinista.
 
 <p align="center">
-  <img src="./assets/readme/en/case-wolfcha.png" width="100%" alt="Héroe README híbrido de Wolfcha que combina tipografía SVG precisa y gráficos de mesa con un maestro de juego lobo generado por IA.">
+  <img src="./assets/readme/retalab-v2/case-wolfcha.svg" width="100%" alt="Diseño conceptual de juego de mesa nocturno con asientos, una persona moderadora y el flujo de una ronda.">
 </p>
 
 <p align="center">
-  <img src="./assets/readme/en/section-why.svg" width="100%" alt="01 Haz que el proyecto sea claro antes de pedir a la gente que siga leyendo.">
+  <img src="./assets/readme/retalab-v2/section-why.svg" width="100%" alt="Sección 1: empieza por lo que el proyecto hace posible.">
 </p>
 
 La mayoría de los repositorios ya contienen suficiente información. El problema suele ser el orden: los visitantes ven terminología interna, comandos de instalación y árboles de directorios antes de entender para qué sirve el proyecto.
@@ -41,7 +41,7 @@ La mayoría de los repositorios ya contienen suficiente información. El problem
 `beautify-github-readme` primero lee el repositorio real, identifica el valor y la prueba más clara, y solo entonces decide cómo debe verse la página.
 
 <p align="center">
-  <img src="./assets/readme/en/before-after.svg" width="100%" alt="Un README que pasa de información densa sin un punto de entrada claro a una secuencia de valor, prueba, método y primer uso.">
+  <img src="./assets/readme/retalab-v2/before-after.svg" width="100%" alt="Antes y después: sustituir un README denso por una secuencia clara de valor, evidencia, método y acción.">
 </p>
 
 En modo README completo, trabaja en tres capas:
@@ -53,7 +53,7 @@ En modo README completo, trabaja en tres capas:
 Proyectos diferentes no deben recibir la misma plantilla. Una CLI puede usar ritmo de comandos y cursores; un sistema de iconos puede usar líneas clave y recortes; un repositorio de investigación puede usar coordenadas, gráficos y etiquetas de evidencia.
 
 <p align="center">
-  <img src="./assets/readme/en/section-method.svg" width="100%" alt="02 Pon la identidad visual en SVG y el contenido legible en Markdown.">
+  <img src="./assets/readme/retalab-v2/section-method.svg" width="100%" alt="Sección 2: deja que los visuales muestren y que Markdown explique.">
 </p>
 
 Los READMEs de GitHub no tienen la libertad de diseño de un sitio web. Esta Skill separa las capas visual y de contenido:
@@ -75,13 +75,13 @@ La guía de producción reutilizable se encuentra aquí:
 - [Producir movimiento README seguro para GitHub](./skills/beautify-github-readme/references/motion-production.md)
 
 <p align="center">
-  <img src="./assets/readme/en/workflow.svg" width="100%" alt="Comprender el proyecto, definir la dirección, estructurar el contenido, construir los visuales y revisar la vista previa.">
+  <img src="./assets/readme/retalab-v2/workflow.svg" width="100%" alt="Flujo de cinco pasos: inspeccionar, definir, estructurar, diseñar y verificar el README.">
 </p>
 
 El proceso mantiene tres promesas: usar material real del proyecto, nunca inventar capacidades y nunca publicar sin aprobación explícita.
 
 <p align="center">
-  <img src="./assets/readme/en/section-use.svg" width="100%" alt="03 Envía el repositorio a tu Agente.">
+  <img src="./assets/readme/retalab-v2/section-use.svg" width="100%" alt="Sección 3: dale a tu Agente el repositorio real.">
 </p>
 
 **Opción 1 · Instalar desde la línea de comandos**
