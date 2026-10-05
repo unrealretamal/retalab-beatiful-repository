@@ -26,7 +26,7 @@ A continuación se muestran cuatro direcciones de héroe independientes. No comp
   <img src="./assets/readme/retalab-v2/case-block-world.svg" width="100%" alt="Concepto de Block World en estilo pixel art: una persona constructora convierte un plano de bloques en una escena.">
 </p>
 
-**Block World** muestra una dirección híbrida y lúdica: SVG construye la tipografía pixelada, la cuadrícula, las etiquetas y la estructura de la escena, mientras que ImageGen y la eliminación de chroma-key suministran el personaje que sería engorroso dibujar de forma determinista.
+**Block World** es una propuesta vectorial conceptual: SVG dibuja la escena pixelada, el plano de bloques, las etiquetas y la figura constructora sin recurrir a imágenes generadas.
 
 <p align="center">
   <img src="./assets/readme/retalab-v2/case-wolfcha.svg" width="100%" alt="Diseño conceptual de juego de mesa nocturno con asientos, una persona moderadora y el flujo de una ronda.">

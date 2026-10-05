@@ -18,7 +18,7 @@ Die folgenden vier unabhängigen Hero-Ansätze verwenden keinen einheitlichen St
 <p align="center"><img src="./assets/readme/retalab-v2/case-postgresql.svg" width="100%" alt="Konzeptionelles relationales Schema mit den Tabellen accounts, projects und events."></p>
 <p align="center"><img src="./assets/readme/retalab-v2/case-block-world.svg" width="100%" alt="Block-World-Konzept im Pixelart-Stil: Eine Baufigur setzt einen Blockplan als Szene um."></p>
 
-**Block World** zeigt einen spielerischen Hybridansatz: SVG gestaltet Pixeltypografie, Raster, Beschriftungen und Szenenaufbau. ImageGen und Chroma-Key-Freistellung liefern die Figur, die deterministisch schwer zu zeichnen wäre.
+**Block World** ist ein konzeptioneller Vektorentwurf: SVG zeichnet die Pixelszene, den Bauplan, die Beschriftungen und die Baufigur ohne generierte Bilder.
 
 <p align="center"><img src="./assets/readme/retalab-v2/case-wolfcha.svg" width="100%" alt="Konzeptionelles Spieltisch-Layout bei Nacht mit Sitzplätzen, Spielleitung und Rundenablauf."></p>
 

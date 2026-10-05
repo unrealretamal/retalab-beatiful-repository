@@ -26,7 +26,7 @@ Below are four independent hero directions. They do not share one house style; e
   <img src="./assets/readme/retalab-v2/case-block-world.svg" width="100%" alt="Pixel-art-inspired Block World concept showing a builder turning a block plan into a scene.">
 </p>
 
-**Block World** shows a playful hybrid direction: SVG builds the pixel typography, grid, labels, and scene structure, while ImageGen and chroma-key removal supply the character that would be cumbersome to draw deterministically.
+**Block World** is a conceptual vector direction: SVG builds the pixel scene, block plan, labels, and builder figure without relying on generated imagery.
 
 <p align="center">
   <img src="./assets/readme/retalab-v2/case-wolfcha.svg" width="100%" alt="Conceptual moonlit tabletop game layout showing player seats, a game master, and round flow.">
